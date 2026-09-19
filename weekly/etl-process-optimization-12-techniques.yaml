@@ -1,0 +1,18 @@
+article:
+  link: "https://www.dsstream.com/post/etl-process-optimization"
+  author:
+    name: "DS Stream"
+    linkedin: "https://www.linkedin.com/company/dsstream/"
+    twitter: "@ds_stream_"
+  reviewer:
+    name: ""
+    linkedin: ""
+    twitter: ""
+  review: "Twelve techniques for cutting ETL cost and shortening batch windows, from incremental loads to partition pruning and compute sizing, plus a tool comparison table and a 30-60-90 day plan."
+  tags:
+    - etl
+    - data-pipelines
+    - sql
+    - partitioning
+    - change-data-capture
+    - cost-optimization
